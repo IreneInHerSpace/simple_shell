@@ -1,2 +1,2 @@
 0x16. C - Simple Shell 
-Team pproject
+Team project
